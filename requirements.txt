@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+yfinance
+langchain
+langchain-core
+langchain-community
+langchain-sambanova
+openai  # Needed for tool compatibility in LangChain agent functions
+tqdm
+pandas
+requests
